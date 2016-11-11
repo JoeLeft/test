@@ -1,6 +1,6 @@
 test
 ====
 
-Just for fun
+Just for fun.
 
 ###Sub head###
