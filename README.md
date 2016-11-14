@@ -14,3 +14,10 @@ A change to this file
 
 a change in the main feature-1 branch
 
+<<<<<<< HEAD
+=======
+foo
+
+commit 2
+
+>>>>>>> parent of 6f9a9e5... commit 3
